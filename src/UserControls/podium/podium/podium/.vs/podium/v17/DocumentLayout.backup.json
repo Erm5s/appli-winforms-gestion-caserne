@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\favie\\Desktop\\cours\\cours\\S2\\SAE_AD\\UserControl\\podium\\podium\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7BF17F5A-8CFB-4250-B2FA-89B919E21E52}|podium.csproj|C:\\Users\\favie\\Desktop\\cours\\cours\\S2\\SAE_AD\\UserControl\\podium\\podium\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7BF17F5A-8CFB-4250-B2FA-89B919E21E52}|podium.csproj|solutionrelative:usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BF17F5A-8CFB-4250-B2FA-89B919E21E52}|podium.csproj|C:\\Users\\favie\\Desktop\\cours\\cours\\S2\\SAE_AD\\UserControl\\podium\\podium\\usercontrol1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BF17F5A-8CFB-4250-B2FA-89B919E21E52}|podium.csproj|solutionrelative:usercontrol1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BF17F5A-8CFB-4250-B2FA-89B919E21E52}|podium.csproj|c:\\users\\favie\\desktop\\cours\\cours\\s2\\sae_ad\\usercontrol\\podium\\podium\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BF17F5A-8CFB-4250-B2FA-89B919E21E52}|podium.csproj|solutionrelative:usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BF17F5A-8CFB-4250-B2FA-89B919E21E52}|podium.csproj|c:\\users\\favie\\desktop\\cours\\cours\\s2\\sae_ad\\usercontrol\\podium\\podium\\connexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BF17F5A-8CFB-4250-B2FA-89B919E21E52}|podium.csproj|solutionrelative:connexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Connexion.cs",
+              "DocumentMoniker": "C:\\Users\\favie\\Desktop\\cours\\cours\\S2\\SAE_AD\\UserControl\\podium\\podium\\Connexion.cs",
+              "RelativeDocumentMoniker": "Connexion.cs",
+              "ToolTip": "C:\\Users\\favie\\Desktop\\cours\\cours\\S2\\SAE_AD\\UserControl\\podium\\podium\\Connexion.cs",
+              "RelativeToolTip": "Connexion.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T06:06:40.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserControl1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\favie\\Desktop\\cours\\cours\\S2\\SAE_AD\\UserControl\\podium\\podium\\UserControl1.Designer.cs",
+              "RelativeDocumentMoniker": "UserControl1.Designer.cs",
+              "ToolTip": "C:\\Users\\favie\\Desktop\\cours\\cours\\S2\\SAE_AD\\UserControl\\podium\\podium\\UserControl1.Designer.cs*",
+              "RelativeToolTip": "UserControl1.Designer.cs*",
+              "ViewState": "AgIAAIQAAAAAAAAAAAAMwJQAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T20:38:50.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserControl1.cs",
+              "DocumentMoniker": "C:\\Users\\favie\\Desktop\\cours\\cours\\S2\\SAE_AD\\UserControl\\podium\\podium\\UserControl1.cs",
+              "RelativeDocumentMoniker": "UserControl1.cs",
+              "ToolTip": "C:\\Users\\favie\\Desktop\\cours\\cours\\S2\\SAE_AD\\UserControl\\podium\\podium\\UserControl1.cs*",
+              "RelativeToolTip": "UserControl1.cs*",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAuwEsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T10:07:58.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserControl1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\favie\\Desktop\\cours\\cours\\S2\\SAE_AD\\UserControl\\podium\\podium\\UserControl1.cs",
+              "RelativeDocumentMoniker": "UserControl1.cs",
+              "ToolTip": "C:\\Users\\favie\\Desktop\\cours\\cours\\S2\\SAE_AD\\UserControl\\podium\\podium\\UserControl1.cs [Design]*",
+              "RelativeToolTip": "UserControl1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T10:02:53.099Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

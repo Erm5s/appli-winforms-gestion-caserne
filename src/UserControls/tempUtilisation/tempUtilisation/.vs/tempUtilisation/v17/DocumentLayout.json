@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\favie\\Desktop\\cours\\cours\\S2\\SAE_AD\\UserControl\\tempUtilisation\\tempUtilisation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E463409-7DFF-41F9-A9E9-EDE381E86368}|tempUtilisation.csproj|c:\\users\\favie\\desktop\\cours\\cours\\s2\\sae_ad\\usercontrol\\temputilisation\\temputilisation\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E463409-7DFF-41F9-A9E9-EDE381E86368}|tempUtilisation.csproj|solutionrelative:usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E463409-7DFF-41F9-A9E9-EDE381E86368}|tempUtilisation.csproj|C:\\Users\\favie\\Desktop\\cours\\cours\\S2\\SAE_AD\\UserControl\\tempUtilisation\\tempUtilisation\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1E463409-7DFF-41F9-A9E9-EDE381E86368}|tempUtilisation.csproj|solutionrelative:usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E463409-7DFF-41F9-A9E9-EDE381E86368}|tempUtilisation.csproj|C:\\Users\\favie\\Desktop\\cours\\cours\\S2\\SAE_AD\\UserControl\\tempUtilisation\\tempUtilisation\\usercontrol1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E463409-7DFF-41F9-A9E9-EDE381E86368}|tempUtilisation.csproj|solutionrelative:usercontrol1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserControl1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\favie\\Desktop\\cours\\cours\\S2\\SAE_AD\\UserControl\\tempUtilisation\\tempUtilisation\\UserControl1.Designer.cs",
+              "RelativeDocumentMoniker": "UserControl1.Designer.cs",
+              "ToolTip": "C:\\Users\\favie\\Desktop\\cours\\cours\\S2\\SAE_AD\\UserControl\\tempUtilisation\\tempUtilisation\\UserControl1.Designer.cs",
+              "RelativeToolTip": "UserControl1.Designer.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwDQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T09:49:43.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserControl1.cs",
+              "DocumentMoniker": "C:\\Users\\favie\\Desktop\\cours\\cours\\S2\\SAE_AD\\UserControl\\tempUtilisation\\tempUtilisation\\UserControl1.cs",
+              "RelativeDocumentMoniker": "UserControl1.cs",
+              "ToolTip": "C:\\Users\\favie\\Desktop\\cours\\cours\\S2\\SAE_AD\\UserControl\\tempUtilisation\\tempUtilisation\\UserControl1.cs",
+              "RelativeToolTip": "UserControl1.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwBQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T08:57:38.438Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserControl1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\favie\\Desktop\\cours\\cours\\S2\\SAE_AD\\UserControl\\tempUtilisation\\tempUtilisation\\UserControl1.cs",
+              "RelativeDocumentMoniker": "UserControl1.cs",
+              "ToolTip": "C:\\Users\\favie\\Desktop\\cours\\cours\\S2\\SAE_AD\\UserControl\\tempUtilisation\\tempUtilisation\\UserControl1.cs [Design]",
+              "RelativeToolTip": "UserControl1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-06T06:22:09.236Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
