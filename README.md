@@ -3,10 +3,9 @@
 ## 📌 Description
 Application de gestion complète d’une caserne de pompiers développée en **C#** avec **Windows Forms**.  
 Ce projet offre un système centralisé, intuitif et efficace pour gérer les équipes, les interventions et l’organisation opérationnelle d’une caserne.
-
+Sujet du projet consultable [ici](https://github.com/Erm5s/appli-winforms-gestion-caserne/blob/main/Sujet%20SAE%2024%20Caserne.pdf).
 
 ---
-
 
 ## 🛠 Technologies utilisées
 - **C#** — Langage orienté objet utilisé pour l’application  
@@ -15,9 +14,7 @@ Ce projet offre un système centralisé, intuitif et efficace pour gérer les é
 - **Visual Studio** — IDE utilisé pour développer et exécuter l’application  
 - **Architecture modulaire** — Facilite l’ajout de nouvelles fonctionnalités  
 
-
 ---
-
 
 ## ⚙️ Fonctionnalités
 - Tableau de bord des missions avec clôture et génération de PDF
@@ -26,11 +23,9 @@ Ce projet offre un système centralisé, intuitif et efficace pour gérer les é
 - Gestion du personnel : grades, affectations, habilitations et congés
 - Statistiques sur les missions, engins utilisés et habilitations
 
-  
 ---
-
 
 ## 👥 Organisation
 Projet réalisé en binôme avec :
-- [**Favien R.**]([https://github.com/emre-profil](https://github.com/Mcolerique))  
+- [**Favien R.**](https://github.com/Mcolerique)  
 
